@@ -1,0 +1,21 @@
+
+.table {
+  overflow: auto;
+  width: 512px;
+
+  margin: auto;
+
+}
+.table>div {
+  width: 30px;
+  height: 30px;
+  border: solid 1px white;
+}
+
+.b1{
+
+margin-left: 900px;
+
+position: relative;
+
+}
